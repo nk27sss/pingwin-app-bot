@@ -1,0 +1,9 @@
+.idea/*
+.vscode/*
+test/*
+logs/*
+*/tmp/*
+tmp/*
+
+config.py
+*__pycache__
